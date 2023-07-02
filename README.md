@@ -21,4 +21,3 @@ void main()
         printf("%s\t\t%d\t\t%d\n",player[i].name,player[i].runs,player[i].wickets);
     }
 }
-
